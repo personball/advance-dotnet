@@ -49,6 +49,7 @@ List of some awesome repos.
 1. [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 1. [WebApiClient](https://github.com/dotnetcore/WebApiClient)
 1. [zio](https://github.com/xoofx/zio)
+1. [mem-doc](https://github.com/Maoni0/mem-doc)
 
 
 # ps1 for repos clone 
@@ -100,4 +101,5 @@ git clone  https://github.com/SkyAPM/SkyAPM-dotnet.git SkyAPM-dotnet
 git clone  https://github.com/domaindrivendev/Swashbuckle.AspNetCore.git Swashbuckle.AspNetCore
 git clone  https://github.com/dotnetcore/WebApiClient.git WebApiClient
 git clone  https://github.com/xoofx/zio.git zio
+git clone  https://github.com/Maoni0/mem-doc.git mem-doc
 ```
