@@ -50,12 +50,14 @@ List of some awesome repos.
 1. [WebApiClient](https://github.com/dotnetcore/WebApiClient)
 1. [zio](https://github.com/xoofx/zio)
 1. [mem-doc](https://github.com/Maoni0/mem-doc)
-1. [openiddict](https://github.com/openiddict/openiddict-core.git)
+1. [openiddict](https://github.com/openiddict/openiddict-core)
+1. [open-im-server](https://github.com/OpenIMSDK/Open-IM-Server)
 
 # ps1 for repos clone 
 
 
 ``` powershell
+
 git clone  https://github.com/abpframework/abp.git abp
 git clone  https://github.com/aspnetboilerplate/aspnetboilerplate.git aspnetboilerplate
 git clone  https://github.com/dotnet/aspnetcore.git aspnetcore
@@ -103,4 +105,6 @@ git clone  https://github.com/dotnetcore/WebApiClient.git WebApiClient
 git clone  https://github.com/xoofx/zio.git zio
 git clone  https://github.com/Maoni0/mem-doc.git mem-doc
 git clone  https://github.com/openiddict/openiddict-core.git
+git clone  https://github.com/OpenIMSDK/Open-IM-Server.git --recursive
+
 ```
