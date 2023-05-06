@@ -52,6 +52,7 @@ List of some awesome repos.
 1. [mem-doc](https://github.com/Maoni0/mem-doc)
 1. [openiddict](https://github.com/openiddict/openiddict-core)
 1. [open-im-server](https://github.com/OpenIMSDK/Open-IM-Server)
+1. [dotnet-docker](https://github.com/dotnet/dotnet-docker)
 
 # ps1 for repos clone 
 
@@ -106,5 +107,6 @@ git clone  https://github.com/xoofx/zio.git zio
 git clone  https://github.com/Maoni0/mem-doc.git mem-doc
 git clone  https://github.com/openiddict/openiddict-core.git
 git clone  https://github.com/OpenIMSDK/Open-IM-Server.git --recursive
+git clone  https://github.com/dotnet/dotnet-docker.git
 
 ```
