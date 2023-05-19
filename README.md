@@ -107,6 +107,7 @@ git clone  https://github.com/xoofx/zio.git zio
 git clone  https://github.com/Maoni0/mem-doc.git mem-doc
 git clone  https://github.com/openiddict/openiddict-core.git
 git clone  https://github.com/OpenIMSDK/Open-IM-Server.git --recursive
+git clone  https://github.com/OpenIMSDK/openim-sdk-core.git
 git clone  https://github.com/dotnet/dotnet-docker.git
 
 ```
