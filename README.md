@@ -54,6 +54,7 @@ List of some awesome repos.
 1. [open-im-server](https://github.com/OpenIMSDK/Open-IM-Server)
 1. [dotnet-docker](https://github.com/dotnet/dotnet-docker)
 1. [fluentd](https://github.com/fluent/fluentd)
+2. [whisper](https://github.com/openai/whisper)
 
 # ps1 for repos clone 
 
@@ -111,5 +112,6 @@ git clone  https://github.com/OpenIMSDK/Open-IM-Server.git --recursive
 git clone  https://github.com/OpenIMSDK/openim-sdk-core.git
 git clone  https://github.com/dotnet/dotnet-docker.git
 git clone  https://github.com/fluent/fluentd.git
+git clone  https://github.com/openai/whisper.git openai-whisper
 
 ```
