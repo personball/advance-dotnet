@@ -55,7 +55,8 @@ List of some awesome repos.
 1. [dotnet-docker](https://github.com/dotnet/dotnet-docker)
 1. [fluentd](https://github.com/fluent/fluentd)
 2. [whisper](https://github.com/openai/whisper)
-3. [ceph-cookbook](https://github.com/ceph/ceph-chef.git)
+3. [ceph-cookbook](https://github.com/ceph/ceph-chef)
+4. [Refit](https://github.com/reactiveui/refit)
 
 # ps1 for repos clone 
 
@@ -115,5 +116,5 @@ git clone  https://github.com/dotnet/dotnet-docker.git
 git clone  https://github.com/fluent/fluentd.git
 git clone  https://github.com/openai/whisper.git openai-whisper
 git clone  https://github.com/ceph/ceph-chef.git
-
+git clone  https://github.com/reactiveui/refit.git
 ```
