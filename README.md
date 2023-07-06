@@ -57,6 +57,7 @@ List of some awesome repos.
 2. [whisper](https://github.com/openai/whisper)
 3. [ceph-cookbook](https://github.com/ceph/ceph-chef)
 4. [Refit](https://github.com/reactiveui/refit)
+5. [formkit](https://github.com/formkit/formkit)
 
 # ps1 for repos clone 
 
@@ -117,4 +118,5 @@ git clone  https://github.com/fluent/fluentd.git
 git clone  https://github.com/openai/whisper.git openai-whisper
 git clone  https://github.com/ceph/ceph-chef.git
 git clone  https://github.com/reactiveui/refit.git
+git clone  https://github.com/formkit/formkit.git
 ```
