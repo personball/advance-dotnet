@@ -58,6 +58,9 @@ List of some awesome repos.
 3. [ceph-cookbook](https://github.com/ceph/ceph-chef)
 4. [Refit](https://github.com/reactiveui/refit)
 5. [formkit](https://github.com/formkit/formkit)
+6. [System.CommandLine](https://github.com/dotnet/command-line-api)
+7. [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils)
+8. [commandline](https://github.com/commandlineparser/commandline)
 
 # ps1 for repos clone 
 
@@ -119,4 +122,7 @@ git clone  https://github.com/openai/whisper.git openai-whisper
 git clone  https://github.com/ceph/ceph-chef.git
 git clone  https://github.com/reactiveui/refit.git
 git clone  https://github.com/formkit/formkit.git
+git clone  https://github.com/dotnet/command-line-api.git
+git clone  https://github.com/natemcmaster/CommandLineUtils.git
+git clone  https://github.com/commandlineparser/commandline.git
 ```
