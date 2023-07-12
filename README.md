@@ -61,6 +61,7 @@ List of some awesome repos.
 6. [System.CommandLine](https://github.com/dotnet/command-line-api)
 7. [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils)
 8. [commandline](https://github.com/commandlineparser/commandline)
+9. [scriban](https://github.com/scriban/scriban)
 
 # ps1 for repos clone 
 
@@ -125,4 +126,5 @@ git clone  https://github.com/formkit/formkit.git
 git clone  https://github.com/dotnet/command-line-api.git
 git clone  https://github.com/natemcmaster/CommandLineUtils.git
 git clone  https://github.com/commandlineparser/commandline.git
+git clone  https://github.com/scriban/scriban.git
 ```
