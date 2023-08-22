@@ -2,6 +2,15 @@
 List of some awesome repos.   
 这个代码库仅供个人方便，仅维护个人兴趣。
 
+# vue3.0 stack
+1. [vue](https://github.com/vuejs/core)
+2. [vue-router](https://github.com/vuejs/router)
+3. [unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+4. [vueuse](https://github.com/vueuse/vueuse)
+5. [pinia](https://github.com/vuejs/pinia)
+6. [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import)
+7. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+
 # Links
 
 1. [abp](https://github.com/abpframework/abp)
